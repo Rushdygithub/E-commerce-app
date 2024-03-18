@@ -1,2 +1,2 @@
 # E-commerce-app
-E-commerce app web application with mongodb 
+E-commerce web application with mongodb 
